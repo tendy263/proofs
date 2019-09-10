@@ -1,0 +1,66 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am tendy263 on github.
+  * I am tendy263 (https://keybase.io/tendy263) on keybase.
+  * I have a public key ASDd0g8sG3RuYmo16-5cnsQhrYhuM-SyWe9ThpmgG9OPjwo
+
+To claim this, I am signing this object:
+
+json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ddd20f2c1b746e626a35ebee5c9ec421ad886e33e4b259ef538699a01bd38f8f0a",
+      "host": "keybase.io",
+      "kid": "0120ddd20f2c1b746e626a35ebee5c9ec421ad886e33e4b259ef538699a01bd38f8f0a",
+      "uid": "b181dd8effc20cbecb3febc54c2f1819",
+      "username": "tendy263"
+    },
+    "merkle_root": {
+      "ctime": 1568114315,
+      "hash": "615ab7a548f83670cf530c08570d7b6bbd7d3db708b4e122db537c186e7cba548d7c86f7b8add1141f0b681892bf259172da7aabc6dd8498f036ed985373eb13",
+      "hash_meta": "4cbd914090cb374c98b6bb2586a2b567f21bb190c2b9207cd3c6bceacf062992",
+      "seqno": 6385550
+    },
+    "service": {
+      "entropy": "cWn90iomwaJQqQsPtqamJ0cn",
+      "name": "github",
+      "username": "tendy263"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568114322,
+  "expire_in": 504576000,
+  "prev": "6ae75736c7765f4d5303c28b2bc9796829c3c0995221aa6dc904b876929dcad3",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+
+with the key [ASDd0g8sG3RuYmo16-5cnsQhrYhuM-SyWe9ThpmgG9OPjwo](https://keybase.io/tendy263), yielding the signature:
+
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3dIPLBt0bmJqNevuXJ7EIa2IbjPkslnvU4aZoBvTj48Kp3BheWxvYWTESpcCCsQgaudXNsd2X01TA8KLK8l5aCnDwJlSIaptyQS4dpKdytPEICfzYlrdlMW6BZKLE6iWoCSzmwRczs7wMZVONgFxuSlBAgHCo3NpZ8RACXlzokggG1GMgdjTqKsfIeAPpbJbB+wX/xazJ4X7PUQ5sVHDHm5DoJeDsTuvA9eoH4CYfnWSlwe60OPzB0m4CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJhTLk/Ra0tzvTpFGXYmeV9AqJTe22BKwUKFXDrtSS6zo3RhZ80CAqd2ZXJzaW9uAQ==
+
+
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/tendy263
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+bash
+# look me up
+keybase id tendy263
